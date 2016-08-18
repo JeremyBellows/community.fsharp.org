@@ -356,7 +356,7 @@ process_speakers([
         "Functional Programming for Object Oriented Programmers",
         "Functional Programming for the Front End",
         "Testing the Web with Canopy" ],on
-    "tags": [ "introduction", "mobile", "emacs", "web", "suave", "functional", "beginner", "testing", "theory", "UI", "browser" ]
+    "tags": [ "web", "suave", "functional", "testing", "UI" ]
 },
 {
     "name":"Jonathan Wood",
